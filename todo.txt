@@ -1,0 +1,12 @@
+object of itnerest
+  -> Woods, forest
+  -> Horizontal woods
+  -> Each finished task becomes one object on the path, set past the last one
+name (internal)
+  -> Internal name for now Skogsra
+technology and requirements
+  -> Flutter with flame
+  -> Photoshop
+Make a list of possible screens
+Describe screens and its elements
+Create a specification

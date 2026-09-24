@@ -1,0 +1,11 @@
+Skogsra — plan
+
+The current work is the screen specification. Slices come after it is finalized.
+
+Write it in docs/screens.md, from docs/gameplay-loop.md.
+
+1. List the screens.
+2. For each screen, describe the elements on it, what a tap does, and which screen comes next.
+3. That file is the specification.
+
+Done when every screen the loop needs is in the document, and each element on a screen is there because the loop requires it.
