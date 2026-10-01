@@ -1,11 +1,18 @@
 Skogsra — plan
 
-The current work is the screen specification. Slices come after it is finalized.
+The current work is the screen description. Art, mockups, and mechanics come after it.
 
-Write it in docs/screens.md, from docs/gameplay-loop.md.
+1. Describe screens and their elements.
+   List them in docs/screens.md. Specify each one in docs/screens/<name>.md, from docs/gameplay-loop.md.
+   For each screen: what it is, what is on it, what a tap does, which screen comes next.
+   Main is done. Left: List, About, Detail.
+   Done when every screen the loop needs is specified, and each element is there because the loop requires it.
 
-1. List the screens.
-2. For each screen, describe the elements on it, what a tap does, and which screen comes next.
-3. That file is the specification.
+2. Choose art direction.
+   Inspiration for the woods and the sky.
 
-Done when every screen the loop needs is in the document, and each element on a screen is there because the loop requires it.
+3. Create a mockup for each screen.
+
+4. Describe mechanics.
+   How the trail is created, how the timer behaves, edge cases.
+   Write that in docs/main/ (main-trail.md, main-timer.md).
