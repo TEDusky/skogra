@@ -1,20 +1,34 @@
-// object of itnerest
+// object of interest
   -> Woods, forest
   -> Horizontal woods
-  -> Each finished task becomes one object on the path, set past the last one
+  -> Each finished task becomes one light on the path, set past the last one
 // name (internal)
   -> Internal name for now Skogsra
 // technology and requirements
-  -> Flutter with flame
+  -> Flutter with flame (if it can be smooth and pretty, otherwise something else)
   -> Photoshop
 // Setup git
 // Make a list of possible screens
-Describe screens and its elements
-[x] Main screen
-[ ] List screen
-[ ] About screen
-[ ] detail screen
+// Reread through everything
+// Describe screens and its elements
+  -> Main, List, About, Detail
+// Choose art direction -> Alto's adventure, hollow knight, limbo, pomodrone
+// Describe mechanics (creating trail, edge cases for timer)
 
-Choose art direction
-Create a mockup for each screen
-Describe mechanics (creating trail, edge cases for timer).
+Mocks (rough, grey boxes / paper photo is fine) -> art/mocks/
+[ ] Main, timer view (idle + running)
+[ ] Main, overlays (arming, confirm x2, note)
+[ ] Main, trail view
+[ ] List, Detail, About
+
+[x] Save art references -> art/reference/
+[x] Commit
+[ ] Create slices
+
+Later
+[ ] Art test in code (sky, clock, woods, lights at 10 / 50 / 300, filter)
+[ ] Prototype (slices)
+[ ] Use it for 2 weeks
+[ ] Character walk cycle (pack or commission, budget ~150 EUR)
+[ ] Finalize about screen text
+[ ] Export / import before release

@@ -1,15 +1,16 @@
 Skogsra — plan
 
-The current work is the screen description. Art, mockups, and mechanics come after it.
+Screens are described. The current work is the art test (mood board + strip of lights). Mockups and mechanics come after it.
 
 1. Describe screens and their elements.
    List them in docs/screens.md. Specify each one in docs/screens/<name>.md, from docs/gameplay-loop.md.
    For each screen: what it is, what is on it, what a tap does, which screen comes next.
-   Main is done. Left: List, About, Detail.
+   Done: Main, List, About, Detail.
    Done when every screen the loop needs is specified, and each element is there because the loop requires it.
 
 2. Choose art direction.
-   Inspiration for the woods and the sky.
+   Chosen: Alto's Adventure palette + Hollow Knight silhouettes, dark woods, each finished task is a light.
+   See docs/gameplay-loop.md (Art direction). Left: mood board, a test strip of lights at 10 / 50 / 300.
 
 3. Create a mockup for each screen.
 
